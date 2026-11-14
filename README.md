@@ -1,4 +1,5 @@
 Computer Networking Projects & Practical Labs
+
 This repository contains my computer networking projects, Packet Tracer
 practice files, and individual lab exercises completed using Cisco
 Packet Tracer.
